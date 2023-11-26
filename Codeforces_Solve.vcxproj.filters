@@ -519,5 +519,8 @@
     <ClCompile Include="Vanya_and_Books.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Divisor_Subtraction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
