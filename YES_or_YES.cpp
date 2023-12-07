@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 #include<algorithm>
+//https://codeforces.com/problemset/problem/1703/A
 bool solve(std::string s) {
 	if (s.length() != 3) {
 		return false;
