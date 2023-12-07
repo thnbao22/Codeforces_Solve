@@ -1,5 +1,5 @@
 ﻿#include<iostream>
-
+//https://codeforces.com/problemset/problem/1076/B
 int main() {
     std::ios_base::sync_with_stdio(0);
     std::cout.tie(0);

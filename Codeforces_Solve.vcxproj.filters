@@ -522,5 +522,8 @@
     <ClCompile Include="Divisor_Subtraction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="YES_or_YES.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
